@@ -1,1 +1,1 @@
-# class-23-double-box-and-wall
+# Box Class
